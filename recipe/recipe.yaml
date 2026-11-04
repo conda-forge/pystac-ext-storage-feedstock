@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "2.0.1"
+  version: "2.0.2"
 
 package:
   name: pystac-ext-storage
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-storage/pystac_ext_storage-${{ version }}.tar.gz
-  sha256: 11e020767dcff6b4b8d7880d26d0f366368af922c825445a165b70c9fd302492
+  sha256: a55224c3f9eebb441f8c6a999033b47a34ba211b8f2ee806132525047ece5547
 
 build:
   number: 0
